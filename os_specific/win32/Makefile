@@ -1,1 +1,2 @@
-# Makefile for win32 specific build rules
+all:
+	@echo Hello win32

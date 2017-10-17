@@ -95,6 +95,4 @@ ENV/
 ~$*.xlsx
 ~$*.docs
 ~$*.pptx
-Temp/
-Work/
 .temp/
